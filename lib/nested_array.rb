@@ -27,7 +27,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character 
   #ORGANIC_PRODUCE = [
   
-  all_organic_produce = [ "Asparagus", "Avocadoes", "Eggplant", "Grapefruit", "Grapes" "Oranges", "Pineapple", "Potatoes", "Strawberries", "Watermelon"
+  all_organic_produce = [ "Asparagus", "Avocadoes", "Eggplant", "Grapefruit", "Grapes" "Oranges", "Pineapple", "Potatoes", "Strawberries", "Watermelon" ]
   
 end
 
