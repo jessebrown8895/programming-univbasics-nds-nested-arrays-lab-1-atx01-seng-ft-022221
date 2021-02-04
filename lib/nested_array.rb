@@ -47,5 +47,5 @@ def matrix_update(matrix, row, column, new_value)
   
 end
 
-puts matrix_update
+
 
