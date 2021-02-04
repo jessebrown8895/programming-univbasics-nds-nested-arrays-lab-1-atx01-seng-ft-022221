@@ -8,7 +8,7 @@ ORGANIC_PRODUCE = [
   "Asparagus"
 ]
 
-CONVENTIONAL_PRODUCE = ["Asparagus", "Avocadoes", "Eggplant", "Grapefruit", "Grapes" "Oranges", "Pineapple", "Potatoes", "Strawberries", "Watermelon" 
+CONVENTIONAL_PRODUCE = [ 
   "Grapefruit",
   "Pineapple",
   "Oranges",
@@ -26,6 +26,7 @@ def sorted_matrix
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character 
   #ORGANIC_PRODUCE = [
+  organic_produce = 
   
 end
 
