@@ -37,7 +37,7 @@ def matrix_lookup(matrix, row, column)
   all_organic_produce = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
   
   all_organic_produce[2][3]
-  all_organic_produce
+  
 end
 
 def matrix_update(matrix, row, column, new_value)
