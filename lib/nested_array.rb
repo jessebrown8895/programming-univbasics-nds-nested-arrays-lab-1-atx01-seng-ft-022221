@@ -36,6 +36,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   
   all_organic_produce[2][3]
+  
 end
 
 def matrix_update(matrix, row, column, new_value)
