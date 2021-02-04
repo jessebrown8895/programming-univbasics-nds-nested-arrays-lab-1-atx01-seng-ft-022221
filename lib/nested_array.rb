@@ -45,7 +45,7 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   matrix_lookup = [new_value]
   
-  matrix = "Lemons"
+  matrix 
   
 end
 
