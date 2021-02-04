@@ -8,7 +8,7 @@ ORGANIC_PRODUCE = [
   "Asparagus"
 ]
 
-CONVENTIONAL_PRODUCE = [
+CONVENTIONAL_PRODUCE = ["Asparagus", "Avocadoes", "Eggplant", "Grapefruit", "Grapes" "Oranges", "Pineapple", "Potatoes", "Strawberries", "Watermelon"
   "Grapefruit",
   "Pineapple",
   "Oranges",
