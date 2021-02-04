@@ -1,9 +1,0 @@
-spice_rack = [["Mace", "Ginger", "Marjoram"], ["Paprika", "Fajita Mix", "Coriander"], ["Parsley", "Sage", "Rosemary"]]
-
-spice_rack_pretty = [
-  ["Mace", "Ginger", "Marjoram"],
-  ["Paprika", "Fajita Mix", "Coriander"],
-  ["Parsley", "Sage", "Rosemary"]
-]
-
-puts spices_rack_pretty
