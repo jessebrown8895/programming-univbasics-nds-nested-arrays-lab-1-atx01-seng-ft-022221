@@ -28,6 +28,7 @@ def sorted_matrix
   #ORGANIC_PRODUCE = [
   ORGANIC_PRODUCE.array.sort
   
+  
 end
 
 def matrix_lookup(matrix, row, column)
