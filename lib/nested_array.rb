@@ -38,6 +38,7 @@ def matrix_lookup(matrix, row, column)
 matrix[row][column]
 
 end
+
 def matrix_lookupp2 
   matrix[row][column]
 end 
