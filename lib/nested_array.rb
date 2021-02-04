@@ -36,7 +36,7 @@ def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
 #{row}, #{column}
-ORGANIC_PRODUCE(2,2)
+ORGANIC_PRODUCE(1, 2, 2)
 end
 
 def matrix_update(matrix, row, column, new_value)
