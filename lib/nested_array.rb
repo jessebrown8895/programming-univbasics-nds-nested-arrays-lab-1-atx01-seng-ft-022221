@@ -27,7 +27,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character 
   #ORGANIC_PRODUCE = [
   
-  ORGANIC_PRODUCE = ["Asparagus", "Avocadoes", "Eggplant", "Grapefruit", "Grapes" "Oranges", "Pineapple", "Potatoes", "Strawberries", "Watermelon"]
+  ORGANIC_PRODUCE = ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries",]
 end
 
 def matrix_lookup(matrix, row, column)
